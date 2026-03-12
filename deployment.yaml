@@ -45,7 +45,7 @@ spec:
 
       - name: nginx
 
-        image: nginx:1.20   # v1 stable
+        image: nginx:1.19   # v1 stable
 
         ports:
 
